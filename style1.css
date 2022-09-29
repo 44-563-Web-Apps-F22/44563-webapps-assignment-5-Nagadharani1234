@@ -1,0 +1,29 @@
+.table th:hover {
+
+    background-color: aqua;
+
+}
+
+.table th {
+
+background-color: rgb(84, 105, 174);
+
+}
+
+.table td {
+
+background-color:rgb(155, 67, 108) ;
+
+}
+
+.table td:hover {
+
+    background-color:rgb(153, 67, 67);
+
+}
+
+.scope td {
+
+    background-color:rgb(131, 172, 81);
+
+}
